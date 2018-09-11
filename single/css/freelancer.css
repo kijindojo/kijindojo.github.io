@@ -186,7 +186,7 @@ section {
     padding: 160px 0 100px 0;
 }
 
-section#kidsclasses, section#instructor, section#fees {
+section.kidsclasses, section.instructor, section.fees {
     color: #fff;
     background: #436280;
 }
