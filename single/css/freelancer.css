@@ -284,6 +284,7 @@ section.success a.active {
     background: 0 0;
     -webkit-transition: all .3s ease-in-out;
     transition: all .3s ease-in-out;
+    color: #fff;
 }
 
 .btn-outline:hover,
