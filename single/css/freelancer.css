@@ -354,6 +354,13 @@ footer {
     color: #fff;
 }
 
+footer a:hover,
+footer a:focus,
+footer a:active,
+footer a.active {
+    color: #fff;
+}
+
 footer h3 {
     margin-bottom: 30px;
 }
